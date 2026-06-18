@@ -1,6 +1,6 @@
 {
   "name": "zstd-size",
-  "version": "1.0.0-beta.3",
+  "version": "1.0.0",
   "description": "Get the zstd compressed size of a string or buffer.",
   "repository": {
     "type": "git",
